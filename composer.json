@@ -1,6 +1,5 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^6.2",
-        "sunra/php-simple-html-dom-parser": "^1.5"
+        "guzzlehttp/guzzle": "^6.2"
     }
 }
