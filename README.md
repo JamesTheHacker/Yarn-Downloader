@@ -2,6 +2,8 @@
 
 This is a small PHP script that searches and downloads movie clips from [Yarn](http://www.tzr.io/). It's inteded to be ran at the terminal/command line.
 
+This is useful for creating video montages such as this one: [I Love You](https://www.youtube.com/watch?v=VX6hYTBIN_w&feature=youtu.be)
+
 ## Installation
 
 Clone the repo
